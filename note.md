@@ -1,0 +1,2 @@
+terraform https://github.com/KwokHing/GSP345-Automating-Infrastructure-on-Google-Cloud-with-Terraform-Challenge-Lab
+laod balancer https://github.com/Qwiklearning/Challenge-lab/blob/main/GSP313%20Create%20and%20Manage%20Cloud%20Resources:%20Challenge%20Lab
